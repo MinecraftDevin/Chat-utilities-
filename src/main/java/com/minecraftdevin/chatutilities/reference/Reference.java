@@ -5,7 +5,7 @@ public class Reference
 {
     public static final String MOD_ID = "ChatUtilities";
     public static final String MOD_NAME = "Chat Utilities ";
-    public static final String VERSION = "1.0BETA";
+    public static final String VERSION = "0.1.1 Aplha";
     public static final String SERVER_PROXY_CLASS = "com.minecraftdevin.chatutilities.proxy.ServerProxy";
     public static final String CLIENT_PROXY_CLASS = "com.minecraftdevin.chatutilities.proxy.ClientProxy";
 }
